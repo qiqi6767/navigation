@@ -1,0 +1,3 @@
+```
+User u = new User();
+```
