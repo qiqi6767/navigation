@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>77网址导航</title>
+    <title>网址导航</title>
     <style>
         body {
             font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
             margin: 0;
             padding: 0;
-            background-color: #f5f5f5;
         }
 
         header {
@@ -65,11 +65,15 @@
         <ul class="link-list">
             <li>
                 <img src="link-icon.png" alt="Link Icon">
-                <a href="https://example.com">示例链接 1</a>
+                <a href="https://www.google.com">Google</a>
             </li>
             <li>
                 <img src="link-icon.png" alt="Link Icon">
-                <a href="https://example.com">示例链接 2</a>
+                <a href="https://www.facebook.com">Facebook</a>
+            </li>
+            <li>
+                <img src="link-icon.png" alt="Link Icon">
+                <a href="https://www.twitter.com">Twitter</a>
             </li>
             <!-- 添加更多链接 -->
         </ul>
