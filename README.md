@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>网址导航</title>
+    <title>77网址导航</title>
     <style>
         body {
             font-family: Arial, sans-serif;
